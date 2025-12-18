@@ -1,0 +1,18 @@
+# Core
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+tqdm
+
+# Embeddings (optional at import time, but needed to reproduce Figure 1)
+sentence-transformers
+openai>=1.0.0
+
+# Dataset loading (optional at import time)
+datasets
+huggingface_hub
+
+# Dev
+pytest
